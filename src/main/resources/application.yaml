@@ -1,0 +1,4 @@
+server.port : 9071
+
+satellite.pass.schedule.file.name : pass-schedule.txt
+satellite.pass.period: 30
